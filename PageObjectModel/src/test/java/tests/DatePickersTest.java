@@ -23,6 +23,5 @@ public class DatePickersTest extends BaseClass {
 		datepickerspage.clickOnDatePickers();
 		String date = "25-02-2023";
 		datepickerspage.enterdate.sendKeys(date);
-
 	}
 }

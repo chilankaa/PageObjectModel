@@ -5,8 +5,8 @@
     <classes>
       <class name="tests.TableTest">
         <methods>
-          <include name="verify_tableHeading"/>
           <include name="terminate"/>
+          <include name="verify_officeOfPerson"/>
           <include name="launchBrowser"/>
         </methods>
       </class> <!-- tests.TableTest -->
